@@ -1,1 +1,1 @@
-FROM jboss/base-jdk:8
+FROM fabric8/java-jboss-openjdk8-jdk
